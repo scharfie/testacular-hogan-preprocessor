@@ -1,5 +1,5 @@
 {
-  "name": "testacular-hogan",
+  "name": "testacular-hogan-preprocessor",
   "version": "0.0.1",
   "description": "A Testacular plugin. Compile mustache templates using Hogan.",
   "main": "index.js",
