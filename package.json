@@ -1,0 +1,29 @@
+{
+  "name": "testacular-hogan",
+  "version": "0.0.1",
+  "description": "A Testacular plugin. Compile mustache templates using Hogan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testacular-plugin",
+    "preprocessor",
+    "hogan",
+    "mustache"
+  ],
+  "author": {
+    "name": "Chris Scharf",
+    "email": "scharfie@gmail.com"
+  },
+  "dependencies": {
+    "hogan.js": "2.0.0"
+  },
+  "peerDependencies": {
+    "testacular": "~0.7"
+  },
+  "license": "MIT",
+  "_id": "testacular-hogan-preprocessor@0.0.1",
+  "readme": "ERROR: No README.md file found!",
+  "_from": "testacular-hogan-preprocessor"
+}
